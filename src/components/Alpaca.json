@@ -1,0 +1,74 @@
+{
+  "accesories": [
+    "./alpaca/accessories/earrings.png",
+    "./alpaca/accessories/flower.png",
+    "./alpaca/accessories/glasses.png",
+    "./alpaca/accessories/headphone.png",
+    "./alpaca/accessories/none.png"
+  ],
+  "backgrounds": [
+    "./alpaca/backgrounds/blue50.png",
+    "./alpaca/backgrounds/blue60.png",
+    "./alpaca/backgrounds/blue70.png",
+    "./alpaca/backgrounds/darkblue30.png",
+    "./alpaca/backgrounds/darkblue50.png",
+    "./alpaca/backgrounds/darkblue70.png",
+    "./alpaca/backgrounds/green50.png",
+    "./alpaca/backgrounds/green60.png",
+    "./alpaca/backgrounds/green70.png",
+    "./alpaca/backgrounds/grey40.png",
+    "./alpaca/backgrounds/grey70.png",
+    "./alpaca/backgrounds/grey80.png",
+    "./alpaca/backgrounds/red50.png",
+    "./alpaca/backgrounds/red60.png",
+    "./alpaca/backgrounds/red70.png",
+    "./alpaca/backgrounds/yellow50.png",
+    "./alpaca/backgrounds/yellow60.png",
+    "./alpaca/backgrounds/yellow70.png",
+    "./alpaca/backgrounds/none.png"
+  ],
+  "ears": [
+    "./alpaca/ears/default.png",
+    "./alpaca/ears/tilt-backward.png",
+    "./alpaca/ears/tilt-forward.png"
+  ],
+  "eyes": [
+    "./alpaca/eyes/default.png",
+    "./alpaca/eyes/angry.png",
+    "./alpaca/eyes/naughty.png",
+    "./alpaca/eyes/panda.png",
+    "./alpaca/eyes/smart.png",
+    "./alpaca/eyes/star.png"
+  ],
+  "hair": [
+    "./alpaca/hair/default.png",
+    "./alpaca/hair/bang.png",
+    "./alpaca/hair/curls.png",
+    "./alpaca/hair/elegant.png",
+    "./alpaca/hair/fancy.png",
+    "./alpaca/hair/quiff.png",
+    "./alpaca/hair/short.png"
+  ],
+  "leg": [
+    "./alpaca/leg/default.png",
+    "./alpaca/leg/bubble-tea.png",
+    "./alpaca/leg/cookie.png",
+    "./alpaca/leg/game-console.png",
+    "./alpaca/leg/tilt-backward.png",
+    "./alpaca/leg/tilt-forward.png",
+    "./alpaca/leg/none.png"
+  ],
+  "mouth": [
+    "./alpaca/mouth/default.png",
+    "./alpaca/mouth/astonished.png",
+    "./alpaca/mouth/eating.png",
+    "./alpaca/mouth/laugh.png",
+    "./alpaca/mouth/tongue.png"
+  ],
+  "neck": [
+    "./alpaca/neck/default.png",
+    "./alpaca/neck/thick.png",
+    "./alpaca/neck/bend-backward.png",
+    "./alpaca/neck/bend-forward.png"
+  ]
+}
